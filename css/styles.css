@@ -1,0 +1,23 @@
+.container-fluid {
+    background-color: darkslategrey;
+}
+
+.container {}
+
+.nav {
+    background-color: slategrey;
+}
+
+.navbar {}
+
+.nav-button {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.jumbobutton {}
+
+.jumbotron {}
+
+.well {
+}
